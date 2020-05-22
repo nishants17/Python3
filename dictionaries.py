@@ -18,3 +18,5 @@ friend_ages = [("Rolf", 24), ("Adam",30)]
 friend_ages = dict(friend_ages)
 print(friend_ages)
 
+
+

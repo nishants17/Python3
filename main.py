@@ -1,4 +1,5 @@
 #import User_input
+import Lottery_winner
 import dictionaries
 import Lists.lists
 
