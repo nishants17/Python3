@@ -1,0 +1,7 @@
+Milestone project:
+
+1. Creating a list of dictionaries which will store all the movie details like Movie title,director,actor, actress, release year,budget
+2. How can I retain my movie list after every run as it is recreating a new list in every run? -> For now movie is getting listed and printed in every single run - Pending
+3. User input anomaly -> Why is the output being printed after the second run of user menu and not the first? - Resolved
+4. Input q navigating to wrong user menu and not exiting the program - Resolved
+
